@@ -1,1 +1,1 @@
-Notebook and report for the Computational Linguistics final project (University of Trento)
+Notebook and report for the Computational Linguistics final project (University of Trento).
